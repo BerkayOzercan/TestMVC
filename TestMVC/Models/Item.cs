@@ -13,4 +13,6 @@ public class Item
 
     [ForeignKey("CategoryId")]
     public Category? Category { get; set; }
+
+    public List<ItemClient>? ItemClients { get; set; }
 }
