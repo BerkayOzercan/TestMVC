@@ -166,3 +166,4 @@ C:\Users\berka\Desktop\Dotnet-Tutorial\TestMVC\TestMVC\bin\Debug\net8.0\runtimes
 C:\Users\berka\Desktop\Dotnet-Tutorial\TestMVC\TestMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\berka\Desktop\Dotnet-Tutorial\TestMVC\TestMVC\obj\Debug\net8.0\TestMVC.csproj.AssemblyReference.cache
 C:\Users\berka\Desktop\Dotnet-Tutorial\TestMVC\TestMVC\obj\Debug\net8.0\TestMVC.csproj.Up2Date
+C:\Users\berka\Desktop\Dotnet-Tutorial\TestMVC\TestMVC\obj\Debug\net8.0\TestMVC.sourcelink.json
