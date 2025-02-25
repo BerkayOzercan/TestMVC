@@ -167,3 +167,6 @@ C:\Users\berka\Desktop\Dotnet-Tutorial\TestMVC\TestMVC\bin\Debug\net8.0\runtimes
 C:\Users\berka\Desktop\Dotnet-Tutorial\TestMVC\TestMVC\obj\Debug\net8.0\TestMVC.csproj.AssemblyReference.cache
 C:\Users\berka\Desktop\Dotnet-Tutorial\TestMVC\TestMVC\obj\Debug\net8.0\TestMVC.csproj.Up2Date
 C:\Users\berka\Desktop\Dotnet-Tutorial\TestMVC\TestMVC\obj\Debug\net8.0\TestMVC.sourcelink.json
+C:\Users\berka\Desktop\Dotnet-Tutorial\TestMVC\TestMVC\bin\Debug\net8.0\TestMVC.staticwebassets.endpoints.json
+C:\Users\berka\Desktop\Dotnet-Tutorial\TestMVC\TestMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\berka\Desktop\Dotnet-Tutorial\TestMVC\TestMVC\obj\Debug\net8.0\staticwebassets\msbuild.TestMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

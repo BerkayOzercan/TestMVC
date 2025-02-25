@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\berka\\Desktop\\Dotnet-Tutorial\\TestMVC\\TestMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TestMVC.bundle.scp.css",
-      "PackagePath": "staticwebassets\\TestMVC.bundle.scp.css"
+      "PackagePath": "staticwebassets\\TestMVC.ry7l49933v.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\berka\\Desktop\\Dotnet-Tutorial\\TestMVC\\TestMVC\\wwwroot\\css\\site.css",
@@ -243,6 +243,10 @@
     {
       "Id": "C:\\Users\\berka\\Desktop\\Dotnet-Tutorial\\TestMVC\\TestMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TestMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TestMVC.Microsoft.AspNetCore.StaticWebAssets.props",
